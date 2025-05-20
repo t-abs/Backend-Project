@@ -1,0 +1,36 @@
+
+🔢 Steps to Build the App:
+
+1.Initialize the project
+npm init -y
+npm install express dotenv express-fileupload cloudinary nodemailer
+Create index.js and set up Express server
+
+2.Import Express and create the app.
+
+3.Load environment variables with dotenv.
+
+4.Add middleware
+
+5.Use express.json() to parse JSON.
+
+6.Use express-fileupload to handle file uploads.
+
+7.Connect to the database
+
+8.Import and call db.connect() from ./config/database.js.
+
+9.Connect to Cloudinary
+
+10.Import and call cloudinaryConnect() from ./config/cloudinary.js.
+
+11.Create and mount routes
+
+12.Create file upload route in ./routes/FileUpload.js.
+
+13.Mount it using:
+app.use('/api/v1/upload', Upload)
+
+14.Start the server
+Listen on the defined PORT with app.listen().
+
