@@ -25,6 +25,11 @@ The app uses Express middleware for file handling and integrates with Cloudinary
 
 ![Screenshot 2025-05-20 230534](https://github.com/user-attachments/assets/21081472-c141-47ad-8c72-747e72804b3d)
 
+4.Email Notifications-
+
+![Screenshot 2025-05-21 112209](https://github.com/user-attachments/assets/b4f650e7-4379-47c7-9c9c-f3cd1458a0f7)
+
+
 
 
 
